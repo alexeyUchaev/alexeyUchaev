@@ -13,7 +13,6 @@ I bridge the gap between complex business requirements and scalable, production-
 ## 🧰 Tech Stack & Expertise
 * **Languages & Runtimes:** TypeScript, Node.js (Leveraged as the market standard for high-performance SaaS architectures)
 * **Cloud & Infrastructure:** AWS (S3, EC2, Lambda), Docker, Linux (Kubuntu)
-### 🧰 Tech Stack & Expertise
 
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -21,8 +20,8 @@ I bridge the gap between complex business requirements and scalable, production-
 ![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-## 📁 Featured Projects (Portfolio)
 
+## 📁 Featured Projects (Portfolio)
 ### 🚀 partsCRM
 A niche, surgical-grade Enterprise SaaS application built for the auto salvage and scrap yard industry to manage inventory, high-definition media, and marketplace synchronization.
 * **Core Architecture:** Designed a highly decoupled backend optimizing complex data relationships.
