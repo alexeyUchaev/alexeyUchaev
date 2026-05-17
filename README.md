@@ -56,5 +56,5 @@ A niche, surgical-grade Enterprise SaaS application built for the auto salvage a
 
 ## 📫 Connect With Me
 * **LinkedIn:** https://www.linkedin.com/in/alexeyuchaev/
-* **Upwork:** https://www.upwork.com/freelancers/~017772197f0ed9d1d4?viewMode=1
-* **Email:** alexey.uchaev.92@gmail.com
+* **Upwork:**   https://www.upwork.com/freelancers/~017772197f0ed9d1d4?viewMode=1
+* **Email:**    alexey.uchaev.92@gmail.com
