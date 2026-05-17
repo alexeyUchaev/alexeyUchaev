@@ -30,12 +30,11 @@ I bridge the gap between complex business requirements and scalable, production-
 ![](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![](https://img.shields.io/badge/Supabase-FFFFFF?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 ![](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
-![](https://img.shields.io/badge/Claude_API-D97756?style=for-the-badge&logo=anthropic&logoColor=white)
 ![](https://img.shields.io/badge/Vercel-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000)
 
 ### 💰 Integrations & UX
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![UI Animation](https://img.shields.io/badge/UI_Animation-E91E63?style=for-the-badge&logo=framer&logoColor=white)
+![](https://img.shields.io/badge/Claude_API-D97756?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### ⚙️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
