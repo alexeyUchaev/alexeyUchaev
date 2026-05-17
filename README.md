@@ -9,6 +9,8 @@ I bridge the gap between complex business requirements and scalable, production-
 * **SaaS Architecture & Design:** Designing systems from scratch, choosing optimal technology stacks, and engineering for low latency and cloud cost optimization.
 * **Business Analysis & Domain Modeling:** Deep-diving into niche business domains, decomposing processes, and designing clean data models.
 * **Integrations & High-Volume Data:** Engineering robust third-party API syncs, complex e-commerce integrations, and optimized cloud media storage pipelines.
+  
+---
 
 ## 🧰 Tech Stack & Expertise
 
