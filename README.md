@@ -23,6 +23,8 @@ I bridge the gap between complex business requirements and scalable, production-
 ![](https://img.shields.io/badge/Supabase-1C1C1C?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 ![](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![](https://img.shields.io/badge/Claude_API-D97756?style=for-the-badge&logo=anthropic&logoColor=white)
+
 
 
 
