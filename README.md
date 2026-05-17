@@ -25,7 +25,29 @@ I bridge the gap between complex business requirements and scalable, production-
 ![](https://img.shields.io/badge/Claude_API-D97756?style=for-the-badge&logo=anthropic&logoColor=white)
 ![](https://img.shields.io/badge/Vercel-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000)
 
+### 🧠 Business Analysis & Architecture
+![System Analysis](https://img.shields.io/badge/System_Analysis-0052CC?style=for-the-badge&logo=analytics&logoColor=white)
+![BPMN](https://img.shields.io/badge/Business_Process_Modeling-FF6F61?style=for-the-badge&logo=diagram&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database_Design-009688?style=for-the-badge&logo=databricks&logoColor=white)
+![SaaS Development](https://img.shields.io/badge/SaaS_Development-4CAF50?style=for-the-badge&logo=cloud&logoColor=white)
 
+### 🚀 Core Tech Stack
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 💰 Integrations & UX
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![UI Animation](https://img.shields.io/badge/UI_Animation-E91E63?style=for-the-badge&logo=framer&logoColor=white)
+
+### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-FF9900?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
 
