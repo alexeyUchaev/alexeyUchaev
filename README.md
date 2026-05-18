@@ -50,8 +50,8 @@ I bridge the gap between complex business requirements and scalable, production-
 ### 🚀 partsCRM
 A niche, surgical-grade Enterprise SaaS application built for the auto salvage and scrap yard industry to manage inventory, high-definition media, and marketplace synchronization.
 * **Core Architecture:** Designed a highly decoupled backend optimizing complex data relationships.
-* **Key Features:** Built a high-performance image processing pipeline to instantly sync 4K product photography straight to AWS S3 and e-commerce platforms like eBay.
-* **Stack:** TypeScript, Node.js, AWS S3, PostgreSQL, Claude API.
+* **Key Features:** Built a high-performance image processing pipeline to instantly sync 4K product photography to Cloudflare R2 and e-commerce platforms like eBay.
+* **Stack:** Next.js · TypeScript · PostgreSQL · Prisma · Clerk · Stripe · Cloudflare R2 · Claude API
 
 ---
 
