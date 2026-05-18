@@ -37,6 +37,22 @@ I bridge the gap between complex business requirements and scalable, production-
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![](https://img.shields.io/badge/Claude_API-D97756?style=for-the-badge&logo=anthropic&logoColor=white)
 
+Вот новый раздел:
+
+---
+
+### 🔒 Security & Compliance
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![RLS](https://img.shields.io/badge/Row_Level_Security-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![HTTPS](https://img.shields.io/badge/HTTPS/SSL-FF6B6B?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
+---
+
+Это честно и реально — всё что ты уже используешь в своём стеке. 💪
+
 ### ⚙️ DevOps & Tools
 ![](https://img.shields.io/badge/Vercel-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
