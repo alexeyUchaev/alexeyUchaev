@@ -37,8 +37,6 @@ I bridge the gap between complex business requirements and scalable, production-
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![](https://img.shields.io/badge/Claude_API-D97756?style=for-the-badge&logo=anthropic&logoColor=white)
 
-Вот новый раздел:
-
 ---
 
 ### 🔒 Security & Compliance
@@ -50,8 +48,6 @@ I bridge the gap between complex business requirements and scalable, production-
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 ---
-
-Это честно и реально — всё что ты уже используешь в своём стеке. 💪
 
 ### ⚙️ DevOps & Tools
 ![](https://img.shields.io/badge/Vercel-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000)
