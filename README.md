@@ -68,7 +68,8 @@ A niche, surgical-grade Enterprise SaaS application built for the auto salvage a
 ### 🏭 DepotManager
 Multi-tenant warehouse management SaaS with role-based access, 
 inventory tracking, and order management.
-https://depot-manager-nx7e.vercel.app/dashboard
+
+* **https://depot-manager-nx7e.vercel.app/dashboard
 
 * Stack: Next.js · TypeScript · PostgreSQL · Prisma · Clerk · Stripe · Claude API · Vercel
   
