@@ -51,7 +51,7 @@ inventory tracking, and order management.
 ![Clerk](https://img.shields.io/badge/Clerk-FFFFFF?style=for-the-badge&logo=clerk&logoColor=black)
 
 ### Integrations & UX
-![Stripe](https://img.shields.io/badge/Stripe-FFFFFF?style=for-the-badge&logo=stripe&logoColor=black) |
+![Stripe](https://img.shields.io/badge/Stripe-FFFFFF?style=for-the-badge&logo=stripe&logoColor=black) 
 ![Claude API](https://img.shields.io/badge/Claude_API-FFFFFF?style=for-the-badge&logo=anthropic&logoColor=black)
 
 ### Security & Compliance
