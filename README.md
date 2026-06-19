@@ -21,7 +21,7 @@ I bridge the gap between complex business requirements and scalable, production-
 ![Database Design](https://img.shields.io/badge/Database_Design-009688?style=for-the-badge&logo=databricks&logoColor=white)
 ![SaaS Development](https://img.shields.io/badge/SaaS_Development-4CAF50?style=for-the-badge&logo=cloud&logoColor=white)
 
-### 🚀 Core Tech Stack
+### ⚛️ Core Tech Stack
 ![](https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=000000)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
