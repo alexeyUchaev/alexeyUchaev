@@ -31,7 +31,6 @@ inventory tracking, and order management.
 ---
 
 ## 🧰 Tech Stack & Expertise
----
 
 ### 🧠 Business Analysis & Architecture
 ![System Analysis](https://img.shields.io/badge/System_Analysis-000000?style=for-the-badge&logo=analytics&logoColor=white)
