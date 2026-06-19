@@ -31,7 +31,6 @@ inventory tracking, and order management.
 ---
 
 ## 🧰 Tech Stack & Expertise
-
 ---
 
 ### 🧠 Business Analysis & Architecture
