@@ -32,13 +32,13 @@ inventory tracking, and order management.
 
 ## 🧰 Tech Stack & Expertise
 
-### 🧠 Business Analysis & Architecture
+## 🧠 Business Analysis & Architecture
 ![System Analysis](https://img.shields.io/badge/System_Analysis-000000?style=for-the-badge&logo=analytics&logoColor=white)
 ![BPMN](https://img.shields.io/badge/Business_Process_Modeling-000000?style=for-the-badge&logo=diagram&logoColor=white)
 ![Database Design](https://img.shields.io/badge/Database_Design-000000?style=for-the-badge&logo=databricks&logoColor=white)
 ![SaaS Development](https://img.shields.io/badge/SaaS_Development-000000?style=for-the-badge&logo=cloud&logoColor=white)
 
-### ⚛️ Core Tech Stack
+## ⚛️ Core Tech Stack
 ![Next.js](https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=black)
 ![React](https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=black)
