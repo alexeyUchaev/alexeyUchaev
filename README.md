@@ -76,10 +76,10 @@ inventory tracking, and order management.
 ---
 
 ### 🧠 Business Analysis & Architecture
-![System Analysis](https://img.shields.io/badge/System_Analysis-FFFFFF?style=for-the-badge&logo=analytics&logoColor=black)
-![BPMN](https://img.shields.io/badge/Business_Process_Modeling-FFFFFF?style=for-the-badge&logo=diagram&logoColor=black)
-![Database Design](https://img.shields.io/badge/Database_Design-FFFFFF?style=for-the-badge&logo=databricks&logoColor=black)
-![SaaS Development](https://img.shields.io/badge/SaaS_Development-FFFFFF?style=for-the-badge&logo=cloud&logoColor=black)
+![System Analysis](https://img.shields.io/badge/System_Analysis-000000?style=for-the-badge&logo=analytics&logoColor=white)
+![BPMN](https://img.shields.io/badge/Business_Process_Modeling-000000?style=for-the-badge&logo=diagram&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database_Design-000000?style=for-the-badge&logo=databricks&logoColor=white)
+![SaaS Development](https://img.shields.io/badge/SaaS_Development-000000?style=for-the-badge&logo=cloud&logoColor=white)
 
 ### ⚛️ Core Tech Stack
 ![Next.js](https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=black)
