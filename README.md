@@ -27,13 +27,6 @@ inventory tracking, and order management.
 * DEMO: https://depot-ai-manager.vercel.app/
 
 * Stack: Next.js · TypeScript · PostgreSQL · Prisma · Clerk · Stripe · Claude API · Vercel
-  
----
-
-## 📫 Connect With Me
-* **LinkedIn:** https://www.linkedin.com/in/alexeyuchaev/
-* **Upwork:**   https://www.upwork.com/freelancers/~017772197f0ed9d1d4?viewMode=1
-* **Email:**    alexey.uchaev.92@gmail.com
 
 ---
 
@@ -82,3 +75,11 @@ inventory tracking, and order management.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+
+## 📫 Connect With Me
+* **LinkedIn:** https://www.linkedin.com/in/alexeyuchaev/
+* **Upwork:**   https://www.upwork.com/freelancers/~017772197f0ed9d1d4?viewMode=1
+* **Email:**    alexey.uchaev.92@gmail.com
+
+---
+
