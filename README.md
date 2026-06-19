@@ -12,6 +12,31 @@ I bridge the gap between complex business requirements and scalable, production-
   
 ---
 
+
+## 🗃️ Featured Projects (Portfolio)
+### 🔩 partsCRM
+A niche, surgical-grade Enterprise SaaS application built for the auto salvage and scrap yard industry to manage inventory, high-definition media, and marketplace synchronization.
+* **Core Architecture:** Designed a highly decoupled backend optimizing complex data relationships.
+* **Key Features:** Built a high-performance image processing pipeline to instantly sync 4K product photography to Cloudflare R2 and e-commerce platforms like eBay.
+* **Stack:** Next.js · TypeScript · PostgreSQL · Prisma · Clerk · Stripe · Cloudflare R2 · Claude API
+
+### 📦 DepotAI
+Multi-tenant warehouse management SaaS with role-based access, 
+inventory tracking, and order management.
+
+* DEMO: https://depot-ai-manager.vercel.app/
+
+* Stack: Next.js · TypeScript · PostgreSQL · Prisma · Clerk · Stripe · Claude API · Vercel
+  
+---
+
+## 📫 Connect With Me
+* **LinkedIn:** https://www.linkedin.com/in/alexeyuchaev/
+* **Upwork:**   https://www.upwork.com/freelancers/~017772197f0ed9d1d4?viewMode=1
+* **Email:**    alexey.uchaev.92@gmail.com
+
+---
+
 ## 🧰 Tech Stack & Expertise
 
 
@@ -57,25 +82,3 @@ I bridge the gap between complex business requirements and scalable, production-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-## 🗃️ Featured Projects (Portfolio)
-### 🔩 partsCRM
-A niche, surgical-grade Enterprise SaaS application built for the auto salvage and scrap yard industry to manage inventory, high-definition media, and marketplace synchronization.
-* **Core Architecture:** Designed a highly decoupled backend optimizing complex data relationships.
-* **Key Features:** Built a high-performance image processing pipeline to instantly sync 4K product photography to Cloudflare R2 and e-commerce platforms like eBay.
-* **Stack:** Next.js · TypeScript · PostgreSQL · Prisma · Clerk · Stripe · Cloudflare R2 · Claude API
-
-### 📦 DepotAI
-Multi-tenant warehouse management SaaS with role-based access, 
-inventory tracking, and order management.
-
-* DEMO: https://depot-ai-manager.vercel.app/
-
-* Stack: Next.js · TypeScript · PostgreSQL · Prisma · Clerk · Stripe · Claude API · Vercel
-  
----
-
-## 📫 Connect With Me
-* **LinkedIn:** https://www.linkedin.com/in/alexeyuchaev/
-* **Upwork:**   https://www.upwork.com/freelancers/~017772197f0ed9d1d4?viewMode=1
-* **Email:**    alexey.uchaev.92@gmail.com
