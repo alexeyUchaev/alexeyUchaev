@@ -65,11 +65,11 @@ A niche, surgical-grade Enterprise SaaS application built for the auto salvage a
 * **Key Features:** Built a high-performance image processing pipeline to instantly sync 4K product photography to Cloudflare R2 and e-commerce platforms like eBay.
 * **Stack:** Next.js · TypeScript · PostgreSQL · Prisma · Clerk · Stripe · Cloudflare R2 · Claude API
 
-### 🏭 DepotManager
+### 🏭 DepotAI
 Multi-tenant warehouse management SaaS with role-based access, 
 inventory tracking, and order management.
 
-* https://depot-ai-manager.vercel.app/
+* DEMO: https://depot-ai-manager.vercel.app/
 
 * Stack: Next.js · TypeScript · PostgreSQL · Prisma · Clerk · Stripe · Claude API · Vercel
   
