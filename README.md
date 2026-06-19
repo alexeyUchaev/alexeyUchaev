@@ -35,7 +35,7 @@ inventory tracking, and order management.
 ### Business Analysis & Architecture
 ![System Analysis](https://img.shields.io/badge/System_Analysis-000000?style=for-the-badge&logo=analytics&logoColor=white)
 ![BPMN](https://img.shields.io/badge/Business_Process_Modeling-000000?style=for-the-badge&logo=diagram&logoColor=white)
-![](https://img.shields.io/badge/Database_Design-000000?style=for-the-badge&logo=databricks&logoColor=white)
+![DB Dev](https://img.shields.io/badge/Database_Design-000000?style=for-the-badge&logo=databricks&logoColor=white)
 ![SaaS Development](https://img.shields.io/badge/SaaS_Development-000000?style=for-the-badge&logo=cloud&logoColor=white)
 
 ### Core Tech Stack
