@@ -58,7 +58,7 @@ I bridge the gap between complex business requirements and scalable, production-
 
 ---
 
-## 📁 Featured Projects (Portfolio)
+## 🗃️ Featured Projects (Portfolio)
 ### 🔩 partsCRM
 A niche, surgical-grade Enterprise SaaS application built for the auto salvage and scrap yard industry to manage inventory, high-definition media, and marketplace synchronization.
 * **Core Architecture:** Designed a highly decoupled backend optimizing complex data relationships.
