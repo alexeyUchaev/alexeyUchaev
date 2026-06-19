@@ -54,16 +54,12 @@ inventory tracking, and order management.
 ![Stripe](https://img.shields.io/badge/Stripe-FFFFFF?style=for-the-badge&logo=stripe&logoColor=black)
 ![Claude API](https://img.shields.io/badge/Claude_API-FFFFFF?style=for-the-badge&logo=anthropic&logoColor=black)
 
----
-
 ### 🔒 Security & Compliance
 ![JWT](https://img.shields.io/badge/JWT-FFFFFF?style=for-the-badge&logo=jsonwebtokens&logoColor=black)
 ![RLS](https://img.shields.io/badge/Row_Level_Security-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=black)
 ![Zod](https://img.shields.io/badge/Zod-FFFFFF?style=for-the-badge&logo=zod&logoColor=black)
 ![HTTPS](https://img.shields.io/badge/HTTPS%2FSSL-FFFFFF?style=for-the-badge&logo=letsencrypt&logoColor=black)
 ![OWASP](https://img.shields.io/badge/OWASP-FFFFFF?style=for-the-badge&logo=owasp&logoColor=black)
-
----
 
 ### ⚙️ DevOps & Tools
 ![Vercel](https://img.shields.io/badge/Vercel-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black)
@@ -72,6 +68,7 @@ inventory tracking, and order management.
 ![Git](https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github-actions&logoColor=black)
 
+---
 ## 📫 Connect With Me
 * **LinkedIn:** https://www.linkedin.com/in/alexeyuchaev/
 * **Upwork:**   https://www.upwork.com/freelancers/~017772197f0ed9d1d4?viewMode=1
