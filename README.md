@@ -71,7 +71,5 @@ inventory tracking, and order management.
 ---
 ## 📫 Connect With Me
 * **Upwork:**   https://www.upwork.com/freelancers/~017772197f0ed9d1d4?viewMode=1
-* **Email:**    alexey.uchaev.92@gmail.com
-
 ---
 
